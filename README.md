@@ -1,2 +1,2 @@
-# Project10-Personal-Data
-Вам нужно защитить данные клиентов страховой компании «Хоть потоп». Разработайте такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию. Обоснуйте корректность его работы.
+# Project8-Personal-Data
+You need to protect the data of customers of the insurance company "Though the Flood". Develop a data transformation method that makes it difficult to recover personal information from it. Justify the correctness of his work.
