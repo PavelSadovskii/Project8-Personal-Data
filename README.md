@@ -39,13 +39,7 @@ So, the algorithm will be as follows:
 
 #### Program the Algorithm
 
-# Make predictions on the test set
-
-# Calculate R2 score for original features
-
-# Calculate predictions for both original and transformed features
-
-# Check if there is any difference between the results
+#### Calculate the Results
 
 #### Evaluate the Results
 
